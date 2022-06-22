@@ -1,9 +1,15 @@
 # BitScape-Game
 Created by Andres Menendez and Yesid Fabian Perez Lopez
 
+Created in Unity
+
 ## [Game Trailer](https://youtu.be/-OnqQ_P7N4Q)
 
-Created in Unity
+## Game Install
+Download
+- [Mac](https://drive.google.com/file/d/1EF8VxkX7Zuc7iRvsw3EJhwZCSmTk5Qdw/view?usp=sharing)
+- [Windows](https://drive.google.com/file/d/1J0wXviDW_jbXlmUaGPazuOxh8JLQhX9T/view?usp=sharing)
+Unzip and Run `BitScape.exe` for Windows or `UEITB_BitScape` for Mac
 
 Starting scene file: Start
 
