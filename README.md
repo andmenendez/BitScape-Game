@@ -1,9 +1,9 @@
 # BitScape-Game
 Created by Andres Menendez and Yesid Fabian Perez Lopez
 
-Created in Unity
+#### [Game Trailer](https://youtu.be/-OnqQ_P7N4Q)
 
-## [Game Trailer](https://youtu.be/-OnqQ_P7N4Q)
+Created in Unity
 
 ## Game Install
 Download
