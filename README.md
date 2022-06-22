@@ -11,6 +11,8 @@ Download
 - [Windows](https://drive.google.com/file/d/1J0wXviDW_jbXlmUaGPazuOxh8JLQhX9T/view?usp=sharing)
 Unzip and Run `BitScape.exe` for Windows or `UEITB_BitScape` for Mac
 
+
+## Gameplay Information
 Starting scene file: Start
 
 #### How to play and what parts of the level to observe technology requirements
